@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/tejal6666/anguler-typescript/issues"
   },
-  "homepage": "https://github.com/tejal6666/anguler-typescript#readme"
+  "homepage": "https://github.com/tejal6666/anguler-typescript#readme",
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
 }
