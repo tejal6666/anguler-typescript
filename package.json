@@ -1,0 +1,23 @@
+{
+  "name": "anguler-typescript",
+  "version": "1.0.0",
+  "description": "Hands on Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejal6666/anguler-typescript.git"
+  },
+  "keywords": [
+    "typescript",
+    "angular"
+  ],
+  "author": "Tejal Ghure",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejal6666/anguler-typescript/issues"
+  },
+  "homepage": "https://github.com/tejal6666/anguler-typescript#readme"
+}
